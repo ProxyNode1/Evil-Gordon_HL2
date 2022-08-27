@@ -1,0 +1,17 @@
+# Point Files
+*.prt
+
+# Backup files
+*.vmx
+
+# BSP files
+*.bsp
+
+# Compile Log
+*.log
+
+# Selected Reference File
+Reference/Temp/
+
+# Other files
+*.pur
