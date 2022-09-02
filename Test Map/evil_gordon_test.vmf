@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8862"
-	"mapversion" "470"
+	"mapversion" "471"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -72,7 +72,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "470"
+	"mapversion" "471"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -8217,8 +8217,8 @@ world
 		}
 		editor
 		{
-			"color" "237 210 0"
-			"groupid" "41261"
+			"color" "251 204 0"
+			"groupid" "43749"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -8317,10 +8317,10 @@ world
 	}
 	group
 	{
-		"id" "41261"
+		"id" "43749"
 		editor
 		{
-			"color" "237 210 0"
+			"color" "251 204 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -8378,451 +8378,475 @@ world
 		}
 	}
 }
-hidden
-{
-	entity
-	{
-		"id" "21240"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2576"
-		"origin" "0 0 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21238"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2575"
-		"origin" "128 0 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21236"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2574"
-		"origin" "-128 0 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14846"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "879"
-		"origin" "-128 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1276"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "143"
-		"origin" "256 -384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1278"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "144"
-		"origin" "128 -384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1280"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "145"
-		"origin" "0 -384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1282"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "146"
-		"origin" "-128 -384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14844"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "878"
-		"origin" "-256 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21262"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2587"
-		"origin" "-384 -128 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21260"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2586"
-		"origin" "-512 -128 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21258"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2585"
-		"origin" "-640 -128 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21256"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2584"
-		"origin" "-768 -128 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21254"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2583"
-		"origin" "-896 -128 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14842"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "877"
-		"origin" "-384 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14840"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "876"
-		"origin" "-512 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14838"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "875"
-		"origin" "-640 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14836"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "874"
-		"origin" "-768 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14834"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "873"
-		"origin" "-896 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21144"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2528"
-		"origin" "-256 384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21146"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2529"
-		"origin" "-128 384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21148"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2530"
-		"origin" "128 384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21150"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2531"
-		"origin" "0 384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
 entity
 {
-	"id" "35665"
-	"classname" "env_message"
-	"message" "Test"
-	"messageattenuation" "0"
-	"messagevolume" "10"
-	"targetname" "Test_Message"
-	"origin" "1696 -752 0.999992"
+	"id" "43213"
+	"classname" "prop_physics"
+	"angles" "0 0 0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "10"
+	"massScale" "10"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/props_wasteland/controlroom_desk001a.mdl"
+	"modelscale" "1.0"
+	"nodamageforces" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "256"
+	"origin" "1390 148 16"
 	editor
 	{
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
+		"logicalpos" "[0 0]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1196"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "103"
+		"origin" "-384 0 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1198"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "104"
+		"origin" "-512 0 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21286"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2599"
+		"origin" "-768 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21284"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2598"
+		"origin" "-896 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1246"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "128"
+		"origin" "256 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1248"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "129"
+		"origin" "128 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1250"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "130"
+		"origin" "0 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1252"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "131"
+		"origin" "-128 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1254"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "132"
+		"origin" "-256 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1256"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "133"
+		"origin" "-384 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1258"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "134"
+		"origin" "-512 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1260"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "135"
+		"origin" "-640 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1262"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "136"
+		"origin" "-768 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1264"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "137"
+		"origin" "-896 -384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21142"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2527"
+		"origin" "-384 384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14852"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "882"
+		"origin" "256 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14850"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "881"
+		"origin" "0 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14848"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "880"
+		"origin" "128 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
 	}
 }
 entity
 {
-	"id" "35739"
-	"classname" "env_hudhint"
-	"message" "Press Button to Alter AI Relationship"
+	"id" "36916"
+	"classname" "info_player_start"
+	"angles" "0 0 0"
 	"spawnflags" "0"
-	"targetname" "Hint_AlterRelation"
-	"origin" "2544 -672 0"
+	"origin" "-776 8960 -4863"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "0 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[0 3500]"
+		"logicalpos" "[0 500]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1142"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "76"
+		"origin" "-768 256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1144"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "77"
+		"origin" "-896 128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21322"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2617"
+		"origin" "-384 -384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21320"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2616"
+		"origin" "-512 -384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21318"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2615"
+		"origin" "-640 -384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
 	}
 }
 hidden
@@ -9002,8 +9026,8 @@ entity
 	"origin" "2464 -307.884 343.734"
 	editor
 	{
-		"color" "237 210 0"
-		"groupid" "41261"
+		"color" "251 204 0"
+		"groupid" "43749"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -12268]"
@@ -9021,7 +9045,7 @@ entity
 	"origin" "2464 -307.88 343.73"
 	"spawnflags" "2"
 	"StartDisabled" "1"
-	"targetname" "Dmg_Adv_MainHall"
+	"targetname" "Dmg_Adv_Test"
 	solid
 	{
 		"id" "41173"
@@ -9135,15 +9159,15 @@ entity
 		}
 		editor
 		{
-			"color" "237 210 0"
+			"color" "251 204 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "237 210 0"
-		"groupid" "41261"
+		"color" "251 204 0"
+		"groupid" "43749"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2500]"
@@ -10513,11 +10537,11 @@ hidden
 {
 	entity
 	{
-		"id" "1232"
+		"id" "1200"
 		"classname" "info_node"
 		"angles" "0 0 0"
-		"nodeid" "121"
-		"origin" "-768 -128 0"
+		"nodeid" "105"
+		"origin" "-640 0 0"
 		editor
 		{
 			"color" "232 219 8"
@@ -11891,11 +11915,11 @@ hidden
 {
 	entity
 	{
-		"id" "1234"
+		"id" "1202"
 		"classname" "info_node"
 		"angles" "0 0 0"
-		"nodeid" "122"
-		"origin" "-896 -256 0"
+		"nodeid" "106"
+		"origin" "-768 0 0"
 		editor
 		{
 			"color" "232 219 8"
@@ -12100,6 +12124,925 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21240"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2576"
+		"origin" "0 0 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21238"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2575"
+		"origin" "128 0 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21236"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2574"
+		"origin" "-128 0 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14846"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "879"
+		"origin" "-128 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1276"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "143"
+		"origin" "256 -384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1278"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "144"
+		"origin" "128 -384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1280"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "145"
+		"origin" "0 -384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1282"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "146"
+		"origin" "-128 -384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14844"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "878"
+		"origin" "-256 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21262"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2587"
+		"origin" "-384 -128 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21260"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2586"
+		"origin" "-512 -128 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21258"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2585"
+		"origin" "-640 -128 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21256"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2584"
+		"origin" "-768 -128 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21254"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2583"
+		"origin" "-896 -128 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14842"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "877"
+		"origin" "-384 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14840"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "876"
+		"origin" "-512 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14838"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "875"
+		"origin" "-640 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14836"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "874"
+		"origin" "-768 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "14834"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "873"
+		"origin" "-896 -256 256"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21144"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2528"
+		"origin" "-256 384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21146"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2529"
+		"origin" "-128 384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21148"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2530"
+		"origin" "128 384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21150"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2531"
+		"origin" "0 384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+entity
+{
+	"id" "35665"
+	"classname" "env_message"
+	"message" "Test"
+	"messageattenuation" "0"
+	"messagevolume" "10"
+	"targetname" "Test_Message"
+	"origin" "1696 -752 0.999992"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "35739"
+	"classname" "env_hudhint"
+	"message" "Press Button to Alter AI Relationship"
+	"spawnflags" "0"
+	"targetname" "Hint_AlterRelation"
+	"origin" "2544 -672 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3500]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1204"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "107"
+		"origin" "-896 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21302"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2607"
+		"origin" "256 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21300"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2606"
+		"origin" "0 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21298"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2605"
+		"origin" "128 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21296"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2604"
+		"origin" "-128 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21294"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2603"
+		"origin" "-256 -256 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1216"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "113"
+		"origin" "256 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1218"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "114"
+		"origin" "128 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1220"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "115"
+		"origin" "0 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1222"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "116"
+		"origin" "-128 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1224"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "117"
+		"origin" "-256 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1226"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "118"
+		"origin" "-384 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1228"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "119"
+		"origin" "-512 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1230"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "120"
+		"origin" "-640 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+entity
+{
+	"id" "37378"
+	"classname" "prop_dynamic"
+	"angles" "0 0 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_lab/lockers.mdl"
+	"modelscale" "1.0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "1256 480 0.999992"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1232"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "121"
+		"origin" "-768 -128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1062"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "55"
+		"origin" "-640 384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1064"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "56"
+		"origin" "-768 384 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21056"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2484"
+		"origin" "-128 768 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21058"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2485"
+		"origin" "128 768 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21060"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2486"
+		"origin" "0 768 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21316"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2614"
+		"origin" "-768 -384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1234"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "122"
+		"origin" "-896 -256 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "21314"
+		"classname" "info_node_air"
+		"angles" "0 0 0"
+		"nodeid" "2613"
+		"origin" "-896 -384 128"
+		editor
+		{
+			"color" "232 171 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[0 0]"
+		}
+	}
+}
+hidden
+{
+	entity
+	{
+		"id" "1156"
+		"classname" "info_node"
+		"angles" "0 0 0"
+		"nodeid" "83"
+		"origin" "256 128 0"
+		editor
+		{
+			"color" "232 219 8"
+			"visgroupshown" "1"
+			"visgroupautoshown" "0"
+			"logicalpos" "[500 -12768]"
+		}
 	}
 }
 hidden
@@ -15804,9 +16747,9 @@ entity
 	connections
 	{
 		"OnOut" "Test_Button_Render,SetAnimation,toggleout,0,-1"
-		"OnIn" "Dmg_Adv_MainHall,Enable,,0,-1"
+		"OnIn" "Dmg_Adv_Test,Enable,,0,-1"
 		"OnIn" "Test_Button_Render,SetAnimation,togglein,0,-1"
-		"OnIn" "Dmg_Adv_MainHall,Disable,,0.1,-1"
+		"OnIn" "Dmg_Adv_Test,Disable,,0.1,-1"
 	}
 	solid
 	{
@@ -19584,949 +20527,6 @@ hidden
 			"visgroupautoshown" "0"
 			"logicalpos" "[500 -12768]"
 		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1156"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "83"
-		"origin" "256 128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21314"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2613"
-		"origin" "-896 -384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21316"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2614"
-		"origin" "-768 -384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21060"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2486"
-		"origin" "0 768 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21058"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2485"
-		"origin" "128 768 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21056"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2484"
-		"origin" "-128 768 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1064"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "56"
-		"origin" "-768 384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1062"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "55"
-		"origin" "-640 384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-entity
-{
-	"id" "37378"
-	"classname" "prop_dynamic"
-	"angles" "0 0 0"
-	"DisableBoneFollowers" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"MaxAnimTime" "10"
-	"maxdxlevel" "0"
-	"MinAnimTime" "5"
-	"mindxlevel" "0"
-	"model" "models/props_lab/lockers.mdl"
-	"modelscale" "1.0"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
-	"skin" "0"
-	"solid" "6"
-	"spawnflags" "0"
-	"StartDisabled" "0"
-	"origin" "1256 480 0.999992"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1230"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "120"
-		"origin" "-640 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1228"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "119"
-		"origin" "-512 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1226"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "118"
-		"origin" "-384 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1224"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "117"
-		"origin" "-256 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1222"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "116"
-		"origin" "-128 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1220"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "115"
-		"origin" "0 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1218"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "114"
-		"origin" "128 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1216"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "113"
-		"origin" "256 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21294"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2603"
-		"origin" "-256 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21296"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2604"
-		"origin" "-128 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21298"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2605"
-		"origin" "128 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21300"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2606"
-		"origin" "0 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21302"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2607"
-		"origin" "256 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1204"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "107"
-		"origin" "-896 -128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1202"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "106"
-		"origin" "-768 0 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1200"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "105"
-		"origin" "-640 0 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21318"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2615"
-		"origin" "-640 -384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21320"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2616"
-		"origin" "-512 -384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21322"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2617"
-		"origin" "-384 -384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1144"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "77"
-		"origin" "-896 128 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1142"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "76"
-		"origin" "-768 256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-entity
-{
-	"id" "36916"
-	"classname" "info_player_start"
-	"angles" "0 0 0"
-	"spawnflags" "0"
-	"origin" "-776 8960 -4863"
-	editor
-	{
-		"color" "0 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14848"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "880"
-		"origin" "128 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14850"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "881"
-		"origin" "0 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "14852"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "882"
-		"origin" "256 -256 256"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21142"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2527"
-		"origin" "-384 384 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1264"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "137"
-		"origin" "-896 -384 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1262"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "136"
-		"origin" "-768 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1260"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "135"
-		"origin" "-640 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1258"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "134"
-		"origin" "-512 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1256"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "133"
-		"origin" "-384 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1254"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "132"
-		"origin" "-256 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1252"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "131"
-		"origin" "-128 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1250"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "130"
-		"origin" "0 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1248"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "129"
-		"origin" "128 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1246"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "128"
-		"origin" "256 -256 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21284"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2598"
-		"origin" "-896 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "21286"
-		"classname" "info_node_air"
-		"angles" "0 0 0"
-		"nodeid" "2599"
-		"origin" "-768 -256 128"
-		editor
-		{
-			"color" "232 171 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[0 0]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1198"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "104"
-		"origin" "-512 0 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-hidden
-{
-	entity
-	{
-		"id" "1196"
-		"classname" "info_node"
-		"angles" "0 0 0"
-		"nodeid" "103"
-		"origin" "-384 0 0"
-		editor
-		{
-			"color" "232 219 8"
-			"visgroupshown" "1"
-			"visgroupautoshown" "0"
-			"logicalpos" "[500 -12768]"
-		}
-	}
-}
-entity
-{
-	"id" "43213"
-	"classname" "prop_physics"
-	"angles" "0 0 0"
-	"damagetoenablemotion" "0"
-	"Damagetype" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"forcetoenablemotion" "0"
-	"inertiaScale" "10"
-	"massScale" "10"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"minhealthdmg" "0"
-	"model" "models/props_wasteland/controlroom_desk001a.mdl"
-	"modelscale" "1.0"
-	"nodamageforces" "0"
-	"PerformanceMode" "0"
-	"physdamagescale" "0.1"
-	"pressuredelay" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"shadowcastdist" "0"
-	"skin" "0"
-	"spawnflags" "256"
-	"origin" "1390 148 16"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
 	}
 }
 cameras
