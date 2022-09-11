@@ -4,14 +4,14 @@
 # Backup files
 *.vmx
 
-# BSP files
+# BSP/Build files
 *.bsp
 
 # Compile Log
 *.log
 
-# Selected Reference File
-Reference/Temp/
+# Ignore files in any temp Folder
+temp/
 
 # Other files
 *.pur
