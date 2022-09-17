@@ -1,2 +1,0 @@
-nonice 1
-nocompress 1
