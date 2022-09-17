@@ -16,5 +16,8 @@ temp/
 # Other files
 *.pur
 
-#Shortcuts
+# Shortcuts
 *.lnk
+
+# Ignore build files
+Build/
