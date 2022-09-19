@@ -21,3 +21,4 @@ temp/
 
 # Ignore build files
 Build/
+Publish/
